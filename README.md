@@ -1,2 +1,3 @@
-# raw-swift-coding-starter
-environment for coding swift using Swift Package Manager and Guard
+# kata
+
+A description of this package.
